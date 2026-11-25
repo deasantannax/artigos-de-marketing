@@ -24,9 +24,15 @@ O projeto nasce da proposta de compreender o marketing para além do consumo, ex
 
 Espaço destinado à publicação de artigos, ensaios, resenhas bibliográficas e estudos de caso.
 
+
 ## Índice de publicações
 
-Em desenvolvimento.
+### Novembro de 2026
+
+- [001 | Etarismo na publicidade: a invisibilidade do consumidor acima dos 60 anos](001-etarismo-na-publicidade.md)
+  - Publicado em 25/11/2026.
+  - Categoria: Marketing, sociedade e diversidade etária.
+
 
 ---
 
